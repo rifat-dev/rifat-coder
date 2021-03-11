@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Rifat Murtazin
+#### Student
+![Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**rifat-coder/rifat-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rifat, and I study at ITMO university. I really enjoy learning languages, different stacks and frameworks like Swift UI, UIKit and .Net. I also enjoy study algorithms, applied math and math in general.
 
-Here are some ideas to get you started:
+Skills: 🛠 C# / Swift / Python / BASH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Win Server, math stat and other 
+- 📫 How to reach me: rifat0531m@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rifat-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rifat0531m//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](vk.com/rifoo)  
