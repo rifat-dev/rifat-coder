@@ -6,5 +6,5 @@ I'm Rifat, and I study at ITMO university. I really enjoy learning languages, di
 Skills: 🛠 C# / Swift / Python / BASH
 
 - 🌱 I’m currently learning Win Server, math stat and other 
-- 📫 How to reach me: rifat0531m@gmail.com 
+- 📫 How to reach me: rifat0531m@gmail.com or my telegram @Rifat001
 
