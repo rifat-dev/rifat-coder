@@ -5,4 +5,4 @@ I study at ITMO university. I really enjoy learning languages, different stacks 
 
 ### 🛠 C# / Swift / Python / BASH
 
-📫 How to reach me: rifat0531m@gmail.com or my telegram @Rifat001
+📫 How to reach me: rifat.gwork@gmail.com or my telegram @Rifat001
