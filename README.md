@@ -1,4 +1,9 @@
-### Rifat Murtazin
+# Rifat Murtazin
 
 My tg: @rifat_my
+
 My chess.com: @rifat_t
+
+My lichess.org: @RFMMBP
+
+***
